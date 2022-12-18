@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 # 👨‍💻 About Me:
 👷️ I am a Civil Structural Engineer currently building a new public transport system in Sydney Australia.<br/><br/>
