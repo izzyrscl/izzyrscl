@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 👨‍💻 About Me:
-👷️ I am a Civil Structural Engineer currently building a new public transport system in Sydney Australia.
+👷️ I am a Civil Structural Engineer currently building a new public transport system in Sydney Australia.<br/><br/>
 🌱 I've always been passionate about learning to code and have recently started to hold myself accountable towards achieving this goal.
 ⚡I started this journey in November 2022. My current tech stack is only HTML & CSS. However, I aim to learn SCSS, JavaScript, React, React Native, Three.js, WebGL, Python & C#.
 💬In doing so, I want to make modern, responsive and interactive websites and apps that help solve everyday problems.
