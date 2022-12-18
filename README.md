@@ -1,4 +1,4 @@
-# HELLO! 👋
+# Hello & Welcome! 👋
 
 # 👨‍💻 About Me:
 👷️ I am a Civil Structural Engineer currently building a new public transport system in Sydney Australia.<br/><br/>
@@ -7,7 +7,7 @@
 💬In doing so, I want to make modern, responsive and interactive websites and apps that help solve everyday problems.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ismetozen/) 
 
 # 💻 Tech Stack:
